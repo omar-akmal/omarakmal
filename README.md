@@ -23,10 +23,9 @@ Software engineer with a background in Information Technology. I bridge the gap 
 
 ---
 
-### 📈 GitHub Stats
+[### 📈 Markdown
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight)
+https://github.com/omar-akmal/omarakmal/blob/main/etl_pipeline.py
 
 ---
 
