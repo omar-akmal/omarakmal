@@ -3,7 +3,7 @@ My personal developer portfolio and profile README
 
 # Hi there, I'm Omar 👋
 
-Senior Product Development Specialist with a background in Information Technology. I bridge the gap between technical execution and business operations, specializing in backend development, data analysis, and software optimization.
+Software engineer with a background in Information Technology. I bridge the gap between technical execution and business operations, specializing in backend development, data analysis, and software optimization.
 
 ---
 
