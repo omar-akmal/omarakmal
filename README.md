@@ -25,7 +25,7 @@ Software engineer with a background in Information Technology. I bridge the gap 
 
 [### 📈 Markdown
 
-https://github.com/omar-akmal/omarakmal/blob/main/etl_pipeline.py
+* 📊 [Data ETL Pipeline](./data_etl_pipeline.py) – Python pipeline for processing claims logs.
 
 ---
 
